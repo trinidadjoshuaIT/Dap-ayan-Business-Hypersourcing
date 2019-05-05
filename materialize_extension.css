@@ -1,0 +1,29 @@
+#nav-altdrop {
+	position: absolute;
+}
+
+.altdrop {
+	min-width: 200px;
+}
+
+.altdrop-link {
+	display: none;
+}
+
+.altdrop:hover .altdrop-link {
+	display: block;
+}
+.altdrop:hover .altdrop-content {
+	background-color: #EE6E73;
+}
+
+#iframe-container {
+	border-style: none;
+	margin: 0;
+}
+
+#logout-btn {
+	border-style: none;
+	background-color: #EE6E73;
+}
+
